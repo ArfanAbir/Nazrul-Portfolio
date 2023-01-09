@@ -6,7 +6,7 @@ Data Analytics Portfolio
 #Project Name: Employee Presence Insights
 
 I did this project when I completed my Google Data Analytics Professional Course. 
-I got the data from one of my mentor's own research from a company. 
+I got the data from one of my mentor's own research from a company. I have created this project using Power BI
 
 In this project I have created the dashoard for the HR and Admin personel so that they could easily 
 1) indentify the employees Presence and Absent
