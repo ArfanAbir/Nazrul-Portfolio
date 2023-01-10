@@ -32,3 +32,14 @@ This project for Sales Manager or The person who working with sales and sales da
 6) Sales by Market
 7) Can see the Yearly Revenue Trend Line and the Monthly Trend Line
 ![Sales Data Analytics Power BI_page-0001](https://user-images.githubusercontent.com/75695509/211384511-2e91880e-1073-48df-a0e9-ab87fd9f1062.jpg)
+
+
+<h1>Project No: 0 </h1>
+<h1>Project Name: IT Product Sales Insights with Tableau</h1>
+
+This project was my second assignment. I have created this project as the second assignment of the <b>Data Analytics Course </b> 
+I have completed this project using <b>MYSQL SERVER</b> and <b>TABLEAU</b> tools.
+This project for Sales Manager or The person who working with sales and sales data. So Sales Manager can easily 
+In this project I tried to cover all the question asked by a sales stackholder
+
+![sales data tableau](https://user-images.githubusercontent.com/75695509/211641741-5befdec3-3dad-4568-bc6a-f828f9616dad.png)
