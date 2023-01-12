@@ -34,7 +34,7 @@ This project for Sales Manager or The person who working with sales and sales da
 ![Sales Data Analytics Power BI_page-0001](https://user-images.githubusercontent.com/75695509/211384511-2e91880e-1073-48df-a0e9-ab87fd9f1062.jpg)
 
 
-<h1>Project No: 0 </h1>
+<h1>Project No: 03 </h1>
 <h1>Project Name: IT Product Sales Insights with Tableau</h1>
 
 This project was my second assignment. I have created this project as the second assignment of the <b>Data Analytics Course </b> 
@@ -43,3 +43,19 @@ This project for Sales Manager or The person who working with sales and sales da
 In this project I tried to cover all the question asked by a sales stackholder
 
 ![sales data tableau](https://user-images.githubusercontent.com/75695509/211641741-5befdec3-3dad-4568-bc6a-f828f9616dad.png)
+
+
+<h1>Project No: 04 </h1>
+<h1>Project Name:Indian City Home Price Predicition </h1>
+
+This data science project series walks through step by step process of how to build a real estate price prediction website. We will first build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com. Second step would be to write a python flask server that uses the saved model to serve http requests. Third component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price. During model building we will cover almost all data science concepts such as data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc. Technology and tools wise this project covers,
+
+1. Python
+2. Numpy and Pandas for data cleaning
+3. Matplotlib for data visualization
+4. Sklearn for model building
+5. Jupyter notebook, visual studio code and pycharm as IDE
+6. Python flask for http server
+7. HTML/CSS/Javascript for UI
+
+![BHP_website](https://user-images.githubusercontent.com/75695509/212150449-98a1a062-629e-4fd6-8d2d-37c545fd9f5e.PNG)
