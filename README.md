@@ -59,3 +59,14 @@ This data science project series walks through step by step process of how to bu
 7. HTML/CSS/Javascript for UI
 
 ![BHP_website](https://user-images.githubusercontent.com/75695509/212150449-98a1a062-629e-4fd6-8d2d-37c545fd9f5e.PNG)
+
+<h1>Project No: 05 </h1>
+<h1>Project Name: Sonar Rock vs Mine Prediction Project </h1>
+
+<p>Linear and logistic regression models in machine learning mark most beginners’ first steps into the world of machine learning. Whether you want to understand the effect of IQ and education on earnings or analyze how smoking cigarettes and drinking coffee are related to mortality, all you need is to understand the concepts of linear and logistic regression. Be it the popular linear and logistic regression models or the less mainstream lasso and ridge regression models that use regularization methods; regression models are ubiquitous. So is the need to get exposure to diverse regression projects to understand the business use cases. </p>
+
+![Sonar Mine vs Rock prediction](https://user-images.githubusercontent.com/75695509/212931157-f27009ea-da35-464e-9784-d43fa4f5ba79.jpg)
+![rock vs Mine](https://user-images.githubusercontent.com/75695509/212931153-93d379f0-1401-472c-9fff-a70936989d5d.jpg)
+![Rock vs Mine ipnyb](https://user-images.githubusercontent.com/75695509/212931140-b911c134-5663-4ce8-bde7-fba2678a52b2.jpg)
+
+
