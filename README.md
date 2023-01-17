@@ -69,4 +69,16 @@ This data science project series walks through step by step process of how to bu
 ![rock vs Mine](https://user-images.githubusercontent.com/75695509/212931153-93d379f0-1401-472c-9fff-a70936989d5d.jpg)
 ![Rock vs Mine ipnyb](https://user-images.githubusercontent.com/75695509/212931140-b911c134-5663-4ce8-bde7-fba2678a52b2.jpg)
 
+<h1>Project No: 06 </h1>
+<h1>Project Name: Diabetes Prediction with Support Vector Machine  </h1>
 
+<p>Support vector machine (SVM) is a popular classification algorithm. This tutorial covers some theory first and then goes over python coding to solve iris flower classification problem using svm and sklearn library. We also cover different parameters such as gamma, regularization and how to fine tune svm classifier using these parameters. Basically the way support vector machine works is it draws a hyper plane in n dimension space such that it maximizes  the margin between classification groups.</p>
+
+
+
+
+![Dieabetes Prediction](https://user-images.githubusercontent.com/75695509/212974774-08129178-d4d4-4f75-af84-473ad8f68993.jpg)
+![support vector'](https://user-images.githubusercontent.com/75695509/212974780-377a12dd-04c4-406c-93f8-86501c10f139.jpg)
+![workflow](https://user-images.githubusercontent.com/75695509/212974782-57273af7-e7c0-4f07-9ec9-0b0267c5efca.jpg)
+
+![ipnyb](https://user-images.githubusercontent.com/75695509/212974872-940834ea-8354-470c-ba04-d07ad764752e.jpg)
