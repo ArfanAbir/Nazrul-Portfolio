@@ -82,3 +82,13 @@ This data science project series walks through step by step process of how to bu
 ![workflow](https://user-images.githubusercontent.com/75695509/212974782-57273af7-e7c0-4f07-9ec9-0b0267c5efca.jpg)
 
 ![ipnyb](https://user-images.githubusercontent.com/75695509/212974872-940834ea-8354-470c-ba04-d07ad764752e.jpg)
+
+<h1>Project No: 07 </h1>
+<h1>Project Name: Predicting Spam Mail   </h1>
+
+<p>Support vector machine (SVM) is a popular classification algorithm. I have used this SVM in this project and Logistic Regression as well.  This tutorial covers some theory first and then goes over python coding to solve iris flower classification problem using svm and sklearn library. We also cover different parameters such as gamma, regularization and how to fine tune svm classifier using these parameters. Basically the way support vector machine works is it draws a hyper plane in n dimension space such that it maximizes  the margin between classification groups.</p>
+
+![spam](https://user-images.githubusercontent.com/75695509/213858354-fc7180a1-4b1e-443d-9f77-5acbc3d69031.jpg)
+![workflow](https://user-images.githubusercontent.com/75695509/213858356-bb3e2c50-9b3f-4271-84f0-b39d3cbd6b2c.jpg)
+![ipynb](https://user-images.githubusercontent.com/75695509/213858352-d59cfb63-7b04-4f24-a2e5-597b31d52349.jpg)
+
